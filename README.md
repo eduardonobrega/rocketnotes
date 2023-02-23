@@ -26,9 +26,11 @@ Aplicação para salvar e gerenciar seus links úteis. No front temos as página
 
 <br>
 
-<p align="center">
-  <img alt="projeto habit-tracker" src="https://user-images.githubusercontent.com/87456011/214461139-eb2111b5-c707-4993-828d-2134ab150f19.png" width="100%">
-</p>
+### Páginas de Autenticão:
+![animation3](https://user-images.githubusercontent.com/87456011/219665454-c85738d7-101a-4566-ab5f-d5d3ab6d164c.gif)
+### Páginas da Aplicação:
+![animation](https://user-images.githubusercontent.com/87456011/219665652-bb572771-99ae-419e-965d-d866d0a0add7.gif)
+
 
 <div align="center">
 
