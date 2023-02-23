@@ -1,3 +1,6 @@
 [submodule "rocketnotes-frontend"]
 	path = rocketnotes-frontend
 	url = https://github.com/eduardonobrega/rocketnotes-frontend
+[submodule "rocketnotes-backend"]
+	path = rocketnotes-backend
+	url = https://github.com/eduardonobrega/rocketnotes-backend
