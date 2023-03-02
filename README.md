@@ -34,7 +34,7 @@ Aplicação para salvar e gerenciar seus links úteis. No front temos as página
 
 <div align="center">
 
-  <h1><a href="https://rocketnotes-app.netlify.app/">👾 Site ao vivo</a></h1> 
+  <h1><a href="https://rocketnotes.bohr.io">👾 Site ao vivo</a></h1> 
 
 </div>
 
